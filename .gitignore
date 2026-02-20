@@ -1,0 +1,27 @@
+# 忽略環境變數檔（包含 API Key）
+.env
+
+# Python 快取與編譯檔
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Chroma 向量資料庫（本地產生，不要上傳）
+.chroma/
+chroma/
+chroma.sqlite3
+
+# 其他常見忽略
+*.log
+*.tmp
+.DS_Store  # Mac 用
+Thumbs.db  # Windows 用
+
+# 忽略大檔或測試檔（可選）
+data/*.csv  # 如果不想要原始 CSV 上傳
+*.ipynb  # 如果有 Jupyter Notebook
+
+# 虛擬環境（如果有）
+venv/
+env/

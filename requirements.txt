@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-openai  # 僅用於embeddings，如果想全免刪除並換HuggingFace
+langchain-community
+chromadb
+python-dotenv
+langchain-groq  # 新增Groq支援
+langchain-huggingface  # 如果用HF embeddings
