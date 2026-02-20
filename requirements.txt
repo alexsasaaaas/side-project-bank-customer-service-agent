@@ -6,3 +6,4 @@ chromadb
 python-dotenv
 langchain-groq  # 新增Groq支援
 langchain-huggingface  # 如果用HF embeddings
+sentence-transformers
