@@ -5,7 +5,7 @@
 - 支援中文輸入，輸出中文。
 
 ## 線上 Demo
-點這裡直接試用：https://[你的app-name].streamlit.app  (部署後再填)
+點這裡直接試用：https://side-project-bank-customer-service-agent-naweireiyl7tqtusygbsv.streamlit.app/
 
 ## 技術亮點
 - RAG 架構：從 TXT FAQ 知識庫檢索相關內容，降低 hallucination。
@@ -15,7 +15,7 @@
 - UI：Streamlit 聊天介面。
 
 ## 本地執行步驟
-1. git clone https://github.com/[你的username]/bank-customer-service-agent.git
+1. git clone 
 2. cd bank-customer-service-agent
 3. pip install -r requirements.txt
 4. 在 .env 填入 GROQ_API_KEY=你的key
