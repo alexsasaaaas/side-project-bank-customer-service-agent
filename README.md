@@ -27,4 +27,3 @@
 - data/: FAQ 知識庫 (bank_faq.txt)
 - requirements.txt: 依賴套件
 
-面試時可直接點 demo 連結測試聊天！
