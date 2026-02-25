@@ -1,6 +1,6 @@
 # 模擬銀行客服 Agent (RAG-based)
 
-這是一個使用 LangChain + Groq LLM + HuggingFace Embeddings + Streamlit 建置的銀行客服 AI Agent。
+本專案是使用 LangChain + Groq LLM + HuggingFace Embeddings + Streamlit 建置的用來模擬銀行客服的 AI Agent。
 - 功能：敏感詞檢測、分類詢問、使用 RAG 從 FAQ 知識庫生成合規回覆。
 - 支援中文輸入，輸出中文。
 
